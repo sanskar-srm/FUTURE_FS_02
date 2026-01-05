@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "prod_001",
+      "description": "A modern wireless headphone.",
+      "imageUrl": "https://images.unsplash.com/photo-1598331668826-20cecc596b86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3aXJlbGVzcyUyMGhlYWRwaG9uZXN8ZW58MHx8fHwxNzY2NTkyODk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wireless headphones"
+    },
+    {
+      "id": "prod_002",
+      "description": "A classic hardcover book.",
+      "imageUrl": "https://images.unsplash.com/photo-1579279263245-bbf82b50092f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoYXJkY292ZXIlMjBib29rfGVufDB8fHx8MTc2NjY4MzkzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hardcover book"
+    },
+    {
+      "id": "prod_003",
+      "description": "A minimalist ceramic mug.",
+      "imageUrl": "https://images.unsplash.com/photo-1650959858546-d09833d5317b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjZXJhbWljJTIwbXVnfGVufDB8fHx8MTc2NjU4NDU2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ceramic mug"
+    },
+    {
+      "id": "prod_004",
+      "description": "A high-performance laptop.",
+      "imageUrl": "https://images.unsplash.com/photo-1759668358660-0d06064f0f84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb2Rlcm4lMjBsYXB0b3B8ZW58MHx8fHwxNzY2NTk1NDQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern laptop"
+    },
+    {
+      "id": "prod_005",
+      "description": "A collection of fantasy novels.",
+      "imageUrl": "https://images.unsplash.com/photo-1623166784282-6c10e99f9ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmYW50YXN5JTIwYm9va3N8ZW58MHx8fHwxNzY2NjgzOTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fantasy books"
+    },
+    {
+      "id": "prod_006",
+      "description": "An ergonomic office chair.",
+      "imageUrl": "https://images.unsplash.com/photo-1688578735352-9a6f2ac3b70a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvZmZpY2UlMjBjaGFpcnxlbnwwfHx8fDE3NjY2ODM5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "office chair"
+    },
+    {
+      "id": "prod_007",
+      "description": "A smart watch with a sleek design.",
+      "imageUrl": "https://images.unsplash.com/photo-1637160151663-a410315e4e75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzbWFydCUyMHdhdGNofGVufDB8fHx8MTc2NjY3NjYwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart watch"
+    },
+    {
+      "id": "prod_008",
+      "description": "A non-fiction book about science.",
+      "imageUrl": "https://images.unsplash.com/photo-1591570548468-752aece6ef6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzY2llbmNlJTIwYm9va3xlbnwwfHx8fDE3NjY2NzM5MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science book"
+    },
+    {
+      "id": "prod_009",
+      "description": "A modern floor lamp.",
+      "imageUrl": "https://images.unsplash.com/photo-1607809714110-e34f71c7b2ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmbG9vciUyMGxhbXB8ZW58MHx8fHwxNzY2Njc5MjQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "floor lamp"
+    },
+    {
+      "id": "prod_010",
+      "description": "A powerful gaming console.",
+      "imageUrl": "https://images.unsplash.com/photo-1700155007323-1e4f4e58d627?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z2FtaW5nJTIwY29uc29sZXxlbnwwfHx8fDE3NjY2NTEwNTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gaming console"
+    },
+    {
+      "id": "prod_011",
+      "description": "A collection of classic literature.",
+      "imageUrl": "https://images.unsplash.com/photo-1455885661740-29cbf08a42fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjbGFzc2ljJTIwYm9va3N8ZW58MHx8fHwxNzY2NjgzOTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "classic books"
+    },
+    {
+      "id": "prod_012",
+      "description": "A set of kitchen knives.",
+      "imageUrl": "https://images.unsplash.com/photo-1764177406219-2b4bf3dab69c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxraXRjaGVuJTIwa25pdmVzfGVufDB8fHx8MTc2NjY3OTYwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kitchen knives"
+    }
+  ]
+}
